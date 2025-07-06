@@ -5,7 +5,7 @@
 This project provides a working configuration for the **Seeed XIAO ESP32S3 Sense** board with camera to run Edge Impulse ML models — enabling real-time **image classification** directly on the device, with no cloud or internet needed.
 ## 🔧 Board Overview: Seeed XIAO ESP32S3 Sense
 
-![Seeed XIAO ESP32S3 Sense with OV2640 Camera](xiao esp32 s3.jpg)
+![Seeed XIAO ESP32S3 Sense with OV2640 Camera](images/xiao esp32 s3.jpg)
 
 > 🧠 Perfect for AI-on-the-edge projects like traffic monitoring, gesture detection, and more.
 
