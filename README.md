@@ -45,5 +45,5 @@ The official Edge Impulse examples were built for other ESP32-CAM boards. This r
 
 1. copy the pin_configuration.h folder edit it your code after the libraries include section and you are done to go.
 ## 📸 Output Preview
-![Model Inference Running](example.png)
+![Model Inference Running](Example.png)
 
