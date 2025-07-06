@@ -3,7 +3,6 @@
 # 📷 EdgeImpulse + Seeed XIAO ESP32S3 Cam Integration
 
 This project provides a working configuration for the **Seeed XIAO ESP32S3 Sense** board with camera to run Edge Impulse ML models — enabling real-time **image classification** directly on the device, with no cloud or internet needed.
-## 🔧 Board Overview: Seeed XIAO ESP32S3 Sense
 
 ## 🔧 Board Overview: Seeed XIAO ESP32S3 Sense
 
